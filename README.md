@@ -13,3 +13,5 @@
 * Orchestrates. Orchestrates business objects to perform specific application tasks.
 * Infrastructure.Infrastructure Layer: Provides generic technical capabilities that support higher layers mostly using 3rd-party libraries.
 * Distributed. Distributed Service Layer
+* suite . a suite of small services
+* a bare minimum of centralized management
