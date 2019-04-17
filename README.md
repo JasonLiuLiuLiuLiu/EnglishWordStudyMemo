@@ -15,3 +15,4 @@
 * Distributed. Distributed Service Layer
 * suite . a suite of small services
 * a bare minimum of centralized management
+* deprecated
